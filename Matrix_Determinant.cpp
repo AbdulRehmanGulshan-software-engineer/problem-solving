@@ -103,5 +103,7 @@ int main()
     double ans = determinant(size, p);
     std::cout << "Determinant: " << ans << std::endl;
     delete[] p;
+    std::cout <<  "\t\tThanks For Ctrl+Alt+N" << std::endl;
+    std::cout <<  "\t\tgulshan.pucit@gmail.com" << std::endl;
     return 0;
 }

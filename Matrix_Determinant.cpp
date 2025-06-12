@@ -1,3 +1,4 @@
+//Question: Find the determinant of n*n matrix
 #include <iostream>
 void print_array_using_pointers(int rows, int cols, int *ptr)
 {
